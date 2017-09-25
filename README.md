@@ -12,6 +12,8 @@ You'll need this script in order to compile your shell script into an .app appli
 
 ### Compile
 
+**THIS IS AN OPTIONAL STEP, ONLY EXECUTE THIS IF YOU'D LIKE TO RECOMPILE THE APPLICATION**
+
 Download the files in this repository. Navigate to it using the terminal. When you find the project root execute the command:
 
 ```sh
