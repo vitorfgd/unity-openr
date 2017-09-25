@@ -2,15 +2,16 @@
 
 Unity Openr is an open source project, created to open multiple Unity3D instances on MacOS.
 
-**IF THIS IS YOUR FIRST TIME OPENING THE SOFTWARE YOU'LL NEED TO EXECUTE BY PRESSING CTRL WHILE CLICKING THE APP, THIS WILL GIVE THE PERMISION TO RUN IT**
+***IF YOU GET THE MESSAGE: ""[App name] can’t be opened because it is from an unidentified developer", YOU'LL NEED TO CLICK THE APP WHILE PRESSING CTRL***
 
-### Requirements
+## Requirements
 
-This project is using a third party script, "appify", created by [mathiasbynens]: https://gist.github.com/mathiasbynens/674099
+This project is using a third party script called **"appify"**, created by [mathiasbynens]. The script is already in the repository but you can download it at:  https://gist.github.com/mathiasbynens/674099
 
-You'll need this script in order to compile your shell script into an .app application.
 
-### Compile
+This script is going to compile your shell script into a .app application.
+
+## Compile
 
 **THIS IS AN OPTIONAL STEP, ONLY EXECUTE THIS IF YOU'D LIKE TO RECOMPILE THE APPLICATION**
 
@@ -20,7 +21,7 @@ Download the files in this repository. Navigate to it using the terminal. When y
 $ ./appify openunity.sh "Unity Openr"
 ```
 
-In order to give your application permission you'll need to execute this command after:
+In order to give your application permission, you are going to need to execute this command:
 
 ```sh
 $ chmod 744 Unity\ Openr.app
@@ -50,8 +51,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
    [mathiasbynens]: <https://gist.github.com/mathiasbynens>
