@@ -31,8 +31,7 @@ In order to give your application permission, you are going to need to execute t
 $ chmod 744 Unity\ Openr.app
 ```
 
-License
-----
+##License
 
 The MIT License (MIT)
 
@@ -56,5 +55,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+## Icon
 
-   [mathiasbynens]: <https://gist.github.com/mathiasbynens>
+![Icon](https://i.imgur.com/ZZYF26q.png)
+
+[mathiasbynens]: <https://gist.github.com/mathiasbynens>
