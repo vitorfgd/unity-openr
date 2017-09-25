@@ -2,6 +2,8 @@
 
 Unity Openr is an open source project, created to open multiple Unity3D instances on MacOS.
 
+**IF THIS IS YOUR FIRST TIME OPENING THE SOFTWARE YOU'LL NEED TO EXECUTE BY PRESSING CTRL WHILE CLICKING THE APP, THIS WILL GIVE THE PERMISION TO RUN IT**
+
 ### Requirements
 
 This project is using a third party script, "appify", created by [mathiasbynens]: https://gist.github.com/mathiasbynens/674099
