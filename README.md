@@ -4,6 +4,10 @@ Unity Openr is an open source project, created to open multiple Unity3D instance
 
 ***IF YOU GET THE MESSAGE: ""[App name] can’t be opened because it is from an unidentified developer", YOU'LL NEED TO CLICK THE APP WHILE PRESSING CTRL***
 
+## How to Execute
+
+Execute the "Unity Opener.app". The file can be found in the directory root.
+
 ## Requirements
 
 This project is using a third party script called **"appify"**, created by [mathiasbynens]. The script is already in the repository but you can download it at:  https://gist.github.com/mathiasbynens/674099
